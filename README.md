@@ -1,0 +1,4 @@
+The Java program, IS147projectcode, serves as a cinema seat booking system. Users can interactively choose a movie, select a showtime, and proceed to book seats for the specified movie and showtime. 
+The program employs a seating chart to visually represent available ('O') and booked ('X') seats. After selecting seats using a combination of letters and numbers (e.g., A1, B2), the user can opt to book additional seats. 
+The system validates user inputs, ensures the availability of chosen seats, and displays the total count of available seats. The program concludes by expressing gratitude for the user's seat bookings. 
+The underlying Cinema class manages the cinema's seating arrangement, randomizes seat availability, and handles seat booking functionality. Users have the flexibility to extend or modify the code to incorporate additional features or enhancements.
